@@ -35,7 +35,6 @@ Products I create and sell at [kunzdigital.lynk.id](https://kunzdigital.lynk.id)
 ## 📁 Projects
 
 - 📘 **AI for Beginners eBook (2026 Revised Edition):** prompt engineering, DeepSeek, AI ethics, and a 7-day learning roadmap → [kunzdigital.lynk.id](https://kunzdigital.lynk.id)
-- 🎬 **30-second promo video for the UPS Tegal Informatics program:** made with Google Flow AI, Canva, and CapCut → [pmb.upstegal.ac.id](https://pmb.upstegal.ac.id)
 - 🔐 **WannaCry ransomware analysis based on the CIA Triad:** a cybersecurity case study
 - 🏛️ **Internship report at DPMPTSP Kabupaten Tegal:** digital transformation of building permits from IMB to PBG through the SIMBG platform
 
@@ -54,8 +53,8 @@ Products I create and sell at [kunzdigital.lynk.id](https://kunzdigital.lynk.id)
 
 <p>
   <a href="https://kunzdigital.lynk.id"><img src="https://img.shields.io/badge/Lynk.id-KunzDigital-orange?style=flat-square" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muhammadrizqifathurrohman067@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/muhammad-rizqi-fathurrohman-833a13434)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐ Thanks for stopping by my profile!</i></p>
